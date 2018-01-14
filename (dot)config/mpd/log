@@ -1,0 +1,431 @@
+Jan 14 00:06 : exception: Failed to open /home/yuki/.config/mpd/state: No such file or directory
+Jan 14 00:06 : update: added album1/Bakteri.Xaan.Makichi.Ma.Hamishe.Vaslim.MP3.192kbps_p30download.com.mp3
+Jan 14 00:06 : update: added album1/Hamed.Mahzarnia.Madare.Javoone.Man.MP3.320kbps_p30download.com.mp3
+Jan 14 00:06 : update: added album1/Amin.Rostami.Deltangetam.MP3.256kbps_p30download.com.mp3
+Jan 14 00:06 : update: added album1/Hamed.Zamani.Sardare.Man.MP3.320kbps_p30download.com.mp3
+Jan 14 00:06 : update: added album1/Ivan.Love.You.MP3.320kbps_p30download.com.mp3
+Jan 14 00:06 : update: added album1/Arad.Bemooni.MP3.320kbps_p30download.com.mp3
+Jan 14 00:06 : update: added album1/Sirvan.Khosravi.Bargard.MP3.320kbps_p30download.com.mp3
+Jan 14 00:06 : update: added album1/Alireza.Roozegar.Ghalbam.MP3.256kbps_p30download.com.mp3
+Jan 14 00:06 : update: added album1/Meysam.Ebrahimi.Yadete.MP3.320kbps_p30download.com.mp3
+Jan 14 00:06 : update: added album1/Ahmad.Solo.Inanma.MP3.320kbps_p30download.com.mp3
+Jan 14 00:06 : update: added album1/Shahram.Nazeri.Parandeh.MP3.320kbps_p30download.com.mp3
+Jan 14 00:06 : update: added album1/Mohsen.Chavoshi.Zendan.MP3.256kbps_p30download.com.mp3
+Jan 14 00:06 : update: added album1/Ramin.Bibak.Angize.MP3.256kbps_p30download.com.mp3
+Jan 14 00:06 : update: added album1/Arian.Yari.Dokhtar.Ame.MP3.320kbps_p30download.com.mp3
+Jan 14 00:06 : update: added album1/Ali.Bayat.Migzare.MP3.320kbps_p30download.com.mp3
+Jan 14 03:57 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 03:57 : client: [0] opened from 127.0.0.1:57926
+Jan 14 03:59 : client: [1] opened from 127.0.0.1:57940
+Jan 14 03:59 : client: [1] closed
+Jan 14 03:59 : client: [2] opened from 127.0.0.1:57942
+Jan 14 03:59 : client: [2] closed
+Jan 14 03:59 : player: played "album1/Ahmad.Solo.Inanma.MP3.320kbps_p30download.com.mp3"
+Jan 14 04:00 : client: [3] opened from 127.0.0.1:57944
+Jan 14 04:00 : client: [3] closed
+Jan 14 04:00 : player: played "album1/Ahmad.Solo.Inanma.MP3.320kbps_p30download.com.mp3"
+Jan 14 04:00 : client: [4] opened from 127.0.0.1:57948
+Jan 14 04:00 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 04:00 : client: [4] closed
+Jan 14 04:03 : player: played "album1/Alireza.Roozegar.Ghalbam.MP3.256kbps_p30download.com.mp3"
+Jan 14 04:04 : client: [5] opened from 127.0.0.1:58102
+Jan 14 04:04 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 04:04 : client: [5] closed
+Jan 14 04:04 : client: [6] opened from 127.0.0.1:58104
+Jan 14 04:04 : client: [6] closed
+Jan 14 04:04 : client: [7] opened from 127.0.0.1:58106
+Jan 14 04:04 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 04:04 : client: [7] closed
+Jan 14 04:04 : client: [8] opened from 127.0.0.1:58108
+Jan 14 04:04 : client: [8] closed
+Jan 14 04:04 : client: [9] opened from 127.0.0.1:58110
+Jan 14 04:04 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 04:04 : client: [9] closed
+Jan 14 04:04 : client: [0] closed
+Jan 14 04:05 : client: [10] opened from 127.0.0.1:58116
+Jan 14 04:05 : client: [10] closed
+Jan 14 04:05 : client: [11] opened from 127.0.0.1:58118
+Jan 14 04:08 : client: [11] closed
+Jan 14 04:08 : client: [12] opened from 127.0.0.1:58132
+Jan 14 04:10 : client: [12] closed
+Jan 14 04:10 : client: [13] opened from 127.0.0.1:58152
+Jan 14 04:10 : client: [13] closed
+Jan 14 04:10 : client: [14] opened from 127.0.0.1:58154
+Jan 14 04:11 : player: played "album1/Hamed.Zamani.Sardare.Man.MP3.320kbps_p30download.com.mp3"
+Jan 14 04:11 : client: [14] closed
+Jan 14 04:11 : client: [15] opened from 127.0.0.1:58160
+Jan 14 04:12 : client: [15] closed
+Jan 14 04:12 : client: [16] opened from 127.0.0.1:58164
+Jan 14 04:13 : client: [16] closed
+Jan 14 04:13 : client: [17] opened from 127.0.0.1:58182
+Jan 14 04:13 : client: [17] closed
+Jan 14 04:13 : client: [18] opened from 127.0.0.1:58188
+Jan 14 04:13 : client: [18] closed
+Jan 14 04:13 : client: [19] opened from 127.0.0.1:58190
+Jan 14 04:14 : client: [20] opened from 127.0.0.1:58194
+Jan 14 04:14 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 04:14 : client: [20] closed
+Jan 14 04:14 : client: [21] opened from 127.0.0.1:58196
+Jan 14 04:14 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 04:14 : client: [21] closed
+Jan 14 04:14 : client: [22] opened from 127.0.0.1:58198
+Jan 14 04:14 : client: [22] closed
+Jan 14 04:14 : client: [23] opened from 127.0.0.1:58200
+Jan 14 04:14 : client: [23] closed
+Jan 14 04:14 : client: [24] opened from 127.0.0.1:58202
+Jan 14 04:14 : client: [24] closed
+Jan 14 04:15 : client: [19] closed
+Jan 14 04:15 : client: [25] opened from 127.0.0.1:58208
+Jan 14 04:15 : client: [25] closed
+Jan 14 04:15 : client: [26] opened from 127.0.0.1:58212
+Jan 14 04:16 : client: [26] closed
+Jan 14 04:16 : client: [27] opened from 127.0.0.1:58216
+Jan 14 04:16 : client: [27] closed
+Jan 14 04:16 : client: [28] opened from 127.0.0.1:58220
+Jan 14 04:18 : player: played "album1/Hamed.Mahzarnia.Madare.Javoone.Man.MP3.320kbps_p30download.com.mp3"
+Jan 14 04:19 : client: [28] closed
+Jan 14 04:19 : client: [29] opened from 127.0.0.1:58234
+Jan 14 04:20 : client: [29] closed
+Jan 14 04:20 : client: [30] opened from 127.0.0.1:58238
+Jan 14 04:20 : client: [31] opened from 127.0.0.1:58242
+Jan 14 04:20 : client: [31] closed
+Jan 14 04:21 : client: [30] closed
+Jan 14 04:21 : client: [32] opened from 127.0.0.1:58250
+Jan 14 04:21 : client: [32] closed
+Jan 14 04:21 : client: [33] opened from 127.0.0.1:58252
+Jan 14 04:21 : client: [33] closed
+Jan 14 04:21 : client: [34] opened from 127.0.0.1:58256
+Jan 14 04:24 : client: [34] closed
+Jan 14 04:24 : client: [35] opened from 127.0.0.1:58274
+Jan 14 04:24 : client: [35] closed
+Jan 14 04:24 : client: [36] opened from 127.0.0.1:58278
+Jan 14 04:24 : client: [36] closed
+Jan 14 04:24 : client: [37] opened from 127.0.0.1:58282
+Jan 14 04:24 : client: [37] closed
+Jan 14 04:24 : client: [38] opened from 127.0.0.1:58286
+Jan 14 04:25 : client: [38] closed
+Jan 14 04:25 : client: [39] opened from 127.0.0.1:58290
+Jan 14 04:25 : client: [39] closed
+Jan 14 04:25 : client: [40] opened from 127.0.0.1:58294
+Jan 14 04:26 : client: [40] closed
+Jan 14 04:26 : client: [41] opened from 127.0.0.1:58302
+Jan 14 04:26 : client: [41] closed
+Jan 14 04:26 : client: [42] opened from 127.0.0.1:58306
+Jan 14 04:26 : player: played "album1/Bakteri.Xaan.Makichi.Ma.Hamishe.Vaslim.MP3.192kbps_p30download.com.mp3"
+Jan 14 04:28 : client: [42] closed
+Jan 14 04:28 : client: [43] opened from 127.0.0.1:58310
+Jan 14 04:28 : client: [43] closed
+Jan 14 04:28 : client: [44] opened from 127.0.0.1:58312
+Jan 14 04:30 : client: [44] closed
+Jan 14 04:30 : client: [45] opened from 127.0.0.1:58334
+Jan 14 04:30 : client: [45] closed
+Jan 14 04:30 : client: [46] opened from 127.0.0.1:58338
+Jan 14 04:31 : client: [46] closed
+Jan 14 04:31 : client: [47] opened from 127.0.0.1:58340
+Jan 14 04:31 : client: [47] closed
+Jan 14 04:31 : client: [48] opened from 127.0.0.1:58344
+Jan 14 04:31 : client: [48] closed
+Jan 14 04:31 : client: [49] opened from 127.0.0.1:58346
+Jan 14 04:32 : client: [49] closed
+Jan 14 04:32 : client: [50] opened from 127.0.0.1:58350
+Jan 14 04:32 : client: [50] closed
+Jan 14 04:32 : client: [51] opened from 127.0.0.1:58352
+Jan 14 04:32 : client: [51] closed
+Jan 14 04:32 : client: [52] opened from 127.0.0.1:58356
+Jan 14 04:32 : client: [52] closed
+Jan 14 04:32 : client: [53] opened from 127.0.0.1:58358
+Jan 14 04:32 : client: [53] closed
+Jan 14 04:32 : client: [54] opened from 127.0.0.1:58362
+Jan 14 04:32 : client: [54] closed
+Jan 14 04:32 : client: [55] opened from 127.0.0.1:58364
+Jan 14 04:32 : client: [55] closed
+Jan 14 04:32 : client: [56] opened from 127.0.0.1:58368
+Jan 14 04:33 : player: played "album1/Bakteri.Xaan.Makichi.Ma.Hamishe.Vaslim.MP3.192kbps_p30download.com.mp3"
+Jan 14 04:34 : client: [56] closed
+Jan 14 04:34 : client: [57] opened from 127.0.0.1:58388
+Jan 14 04:35 : client: [57] closed
+Jan 14 04:35 : client: [58] opened from 127.0.0.1:58392
+Jan 14 04:35 : client: [59] opened from 127.0.0.1:58396
+Jan 14 04:35 : client: [59] closed
+Jan 14 04:38 : client: [58] closed
+Jan 14 04:38 : client: [60] opened from 127.0.0.1:58422
+Jan 14 04:39 : client: [60] closed
+Jan 14 04:39 : client: [61] opened from 127.0.0.1:58436
+Jan 14 04:42 : player: played "album1/Bakteri.Xaan.Makichi.Ma.Hamishe.Vaslim.MP3.192kbps_p30download.com.mp3"
+Jan 14 04:43 : client: [61] closed
+Jan 14 04:43 : client: [62] opened from 127.0.0.1:58472
+Jan 14 04:45 : client: [63] opened from 127.0.0.1:58484
+Jan 14 04:45 : client: [63] closed
+Jan 14 04:48 : client: [64] opened from 127.0.0.1:58504
+Jan 14 04:48 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 04:48 : client: [64] closed
+Jan 14 04:48 : client: [62] closed
+Jan 14 04:48 : client: [65] opened from 127.0.0.1:58506
+Jan 14 04:48 : client: [65] closed
+Jan 14 04:48 : client: [66] opened from 127.0.0.1:58510
+Jan 14 04:48 : client: [66] closed
+Jan 14 04:48 : client: [67] opened from 127.0.0.1:58512
+Jan 14 04:50 : client: [67] closed
+Jan 14 04:50 : client: [68] opened from 127.0.0.1:58518
+Jan 14 04:50 : client: [68] closed
+Jan 14 04:50 : client: [69] opened from 127.0.0.1:58520
+Jan 14 04:50 : client: [69] closed
+Jan 14 04:50 : client: [70] opened from 127.0.0.1:58522
+Jan 14 04:50 : client: [70] closed
+Jan 14 04:50 : client: [71] opened from 127.0.0.1:58524
+Jan 14 04:50 : client: [71] closed
+Jan 14 04:50 : client: [72] opened from 127.0.0.1:58526
+Jan 14 04:50 : client: [72] closed
+Jan 14 04:50 : client: [73] opened from 127.0.0.1:58530
+Jan 14 04:50 : client: [73] closed
+Jan 14 04:50 : client: [74] opened from 127.0.0.1:58532
+Jan 14 04:50 : client: [74] closed
+Jan 14 04:50 : client: [75] opened from 127.0.0.1:58534
+Jan 14 04:50 : client: [75] closed
+Jan 14 04:50 : client: [76] opened from 127.0.0.1:58538
+Jan 14 04:51 : player: played "album1/Alireza.Roozegar.Ghalbam.MP3.256kbps_p30download.com.mp3"
+Jan 14 04:52 : client: [77] opened from 127.0.0.1:58546
+Jan 14 04:52 : client: [77] closed
+Jan 14 05:31 : update: added album2/Ehsan.Haghshenas.Ye.Shab.Mp3.320kbps_p30download.com.mp3
+Jan 14 05:31 : update: added album2/Emad.Lavand.Mp3.256kbps_p30download.com.mp3
+Jan 14 05:31 : update: added album2/Amir.Farjam.Gofti.Paeiz.Miay.Mp3.256kbps_p30download.com.mp3
+Jan 14 05:31 : update: added album2/Mehdi.Yaghmaei.Vala.Mohammad.Mp3.320kbps_p30download.com.mp3
+Jan 14 05:31 : update: added album2/Babak.Jahanbakhsh.Havvaye.Man.Mp3.320kbps_p30download.com.mp3
+Jan 14 05:31 : update: added album2/Shahab.Ramezan.Chi.Azat.Ghashangtare.Mp3.320kbps_p30download.com.mp3
+Jan 14 05:31 : update: added album2/Hojat.Ashrafzadeh.And.Emad.Talebzadeh.Eshghe.Delam.Mp3.256kbps_p30download.com.mp3
+Jan 14 05:31 : update: added album2/Reza.Rad.Signal.Mp3.320kbps_p30download.com.mp3
+Jan 14 05:31 : update: added album2/Yaser.Mahmoudi.Eshghe.Man.Yadet.Mimone.Mp3.256kbps_p30download.com.mp3
+Jan 14 05:31 : update: added album2/Mohammadreza.Ranjbar.Heife.Man.Mp3.320kbps_p30download.com.mp3
+Jan 14 05:31 : update: added album2/Hojat.Ashrafzadeh.In.Roozha.Bedoune.To.Mp3.320kbps_p30download.com.mp3
+Jan 14 05:31 : update: added album2/Reza.Sadeghi.Delkhoshie.Sadeh.Mp3.256kbps_p30download.com.mp3
+Jan 14 05:31 : update: added album2/Siavash.Geryeh.Aroomam.Mikoneh.Mp3.256kbps_p30download.com.mp3
+Jan 14 05:31 : update: added album2/Amirabbas.Golab.Gooneh.Mp3.320kbps_p30download.com.mp3
+Jan 14 05:31 : update: added album2/Ali.Lohrasbi.And.Hamid.Sefat.Ghafas.Mp3.256kbps_p30download.com.mp3
+Jan 14 05:31 : update: added album2/Sohrab.Pakzad.Eshghe.Yedooneh.Mp3.256kbps_p30download.com.mp3
+Jan 14 05:31 : update: added album2/Siamak.Abbasi.Begoo.Yadete.Mano.Mp3.320kbps_p30download.com.mp3
+Jan 14 05:31 : client: [76] closed
+Jan 14 05:31 : client: [78] opened from 127.0.0.1:59478
+Jan 14 05:32 : update: removing album1/Sirvan.Khosravi.Bargard.MP3.320kbps_p30download.com.mp3
+Jan 14 05:32 : update: removing album1/Shahram.Nazeri.Parandeh.MP3.320kbps_p30download.com.mp3
+Jan 14 05:32 : update: removing album1/Ramin.Bibak.Angize.MP3.256kbps_p30download.com.mp3
+Jan 14 05:32 : update: removing album1/Mohsen.Chavoshi.Zendan.MP3.256kbps_p30download.com.mp3
+Jan 14 05:32 : update: removing album1/Meysam.Ebrahimi.Yadete.MP3.320kbps_p30download.com.mp3
+Jan 14 05:32 : update: removing album1/Ivan.Love.You.MP3.320kbps_p30download.com.mp3
+Jan 14 05:32 : update: removing album1/Hamed.Zamani.Sardare.Man.MP3.320kbps_p30download.com.mp3
+Jan 14 05:32 : update: removing album1/Hamed.Mahzarnia.Madare.Javoone.Man.MP3.320kbps_p30download.com.mp3
+Jan 14 05:32 : update: removing album1/Bakteri.Xaan.Makichi.Ma.Hamishe.Vaslim.MP3.192kbps_p30download.com.mp3
+Jan 14 05:32 : update: removing album1/Arian.Yari.Dokhtar.Ame.MP3.320kbps_p30download.com.mp3
+Jan 14 05:32 : update: removing album1/Arad.Bemooni.MP3.320kbps_p30download.com.mp3
+Jan 14 05:32 : update: removing album1/Amin.Rostami.Deltangetam.MP3.256kbps_p30download.com.mp3
+Jan 14 05:32 : update: removing album1/Alireza.Roozegar.Ghalbam.MP3.256kbps_p30download.com.mp3
+Jan 14 05:32 : update: removing album1/Ali.Bayat.Migzare.MP3.320kbps_p30download.com.mp3
+Jan 14 05:32 : update: removing album1/Ahmad.Solo.Inanma.MP3.320kbps_p30download.com.mp3
+Jan 14 05:32 : client: [78] closed
+Jan 14 05:32 : client: [79] opened from 127.0.0.1:59484
+Jan 14 05:33 : client: [0] opened from 127.0.0.1:59498
+Jan 14 05:33 : client: [0] closed
+Jan 14 05:33 : client: [1] opened from 127.0.0.1:59500
+Jan 14 05:33 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jan 14 05:33 : client: [2] opened from 127.0.0.1:59502
+Jan 14 05:33 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 05:35 : client: [1] closed
+Jan 14 05:39 : player: played "album2/Ali.Lohrasbi.And.Hamid.Sefat.Ghafas.Mp3.256kbps_p30download.com.mp3"
+Jan 14 05:40 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 05:40 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 05:45 : player: played "album2/Amir.Farjam.Gofti.Paeiz.Miay.Mp3.256kbps_p30download.com.mp3"
+Jan 14 05:45 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 05:46 : client: [3] opened from 127.0.0.1:59556
+Jan 14 05:48 : player: played "album2/Amirabbas.Golab.Gooneh.Mp3.320kbps_p30download.com.mp3"
+Jan 14 05:50 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 05:50 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 05:52 : client: [4] opened from 127.0.0.1:59582
+Jan 14 05:52 : client: [4] closed
+Jan 14 05:54 : player: played "album2/Babak.Jahanbakhsh.Havvaye.Man.Mp3.320kbps_p30download.com.mp3"
+Jan 14 05:54 : client: [5] opened from 127.0.0.1:59586
+Jan 14 05:54 : client: [5] closed
+Jan 14 05:54 : client: [6] opened from 127.0.0.1:59588
+Jan 14 05:54 : client: [6] closed
+Jan 14 05:54 : client: [7] opened from 127.0.0.1:59590
+Jan 14 05:54 : client: [7] closed
+Jan 14 05:57 : player: played "album2/Shahab.Ramezan.Chi.Azat.Ghashangtare.Mp3.320kbps_p30download.com.mp3"
+Jan 14 05:58 : client: [8] opened from 127.0.0.1:59600
+Jan 14 05:58 : client: [8] closed
+Jan 14 05:59 : client: [3] closed
+Jan 14 05:59 : client: [9] opened from 127.0.0.1:59606
+Jan 14 06:02 : player: played "album2/Amir.Farjam.Gofti.Paeiz.Miay.Mp3.256kbps_p30download.com.mp3"
+Jan 14 06:04 : client: [10] opened from 127.0.0.1:59646
+Jan 14 06:04 : client: [10] closed
+Jan 14 06:05 : client: [11] opened from 127.0.0.1:59648
+Jan 14 06:05 : client: [11] closed
+Jan 14 06:08 : player: played "album2/Mehdi.Yaghmaei.Vala.Mohammad.Mp3.320kbps_p30download.com.mp3"
+Jan 14 06:08 : client: [12] opened from 127.0.0.1:59654
+Jan 14 06:08 : client: [12] closed
+Jan 14 06:08 : client: [13] opened from 127.0.0.1:59656
+Jan 14 06:08 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 06:08 : client: [13] closed
+Jan 14 06:10 : client: [9] closed
+Jan 14 06:10 : client: [14] opened from 127.0.0.1:59672
+Jan 14 06:11 : client: [14] closed
+Jan 14 06:11 : client: [15] opened from 127.0.0.1:59682
+Jan 14 06:12 : player: played "album2/Mohammadreza.Ranjbar.Heife.Man.Mp3.320kbps_p30download.com.mp3"
+Jan 14 06:17 : client: [15] closed
+Jan 14 06:17 : player: played "album2/Reza.Rad.Signal.Mp3.320kbps_p30download.com.mp3"
+Jan 14 11:07 : client: [0] opened from 127.0.0.1:40846
+Jan 14 11:07 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jan 14 11:07 : client: [1] opened from 127.0.0.1:40848
+Jan 14 11:07 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 11:07 : client: [1] closed
+Jan 14 11:09 : client: [0] closed
+Jan 14 11:10 : client: [2] opened from 127.0.0.1:41002
+Jan 14 11:10 : client: [2] closed
+Jan 14 11:10 : client: [3] opened from 127.0.0.1:41004
+Jan 14 11:11 : player: played "album2/Reza.Rad.Signal.Mp3.320kbps_p30download.com.mp3"
+Jan 14 11:11 : client: [4] opened from 127.0.0.1:41006
+Jan 14 11:11 : client: [4] closed
+Jan 14 11:14 : client: [5] opened from 127.0.0.1:41010
+Jan 14 11:14 : client: [5] closed
+Jan 14 11:17 : player: played "album2/Siavash.Geryeh.Aroomam.Mikoneh.Mp3.256kbps_p30download.com.mp3"
+Jan 14 11:17 : client: [6] opened from 127.0.0.1:41018
+Jan 14 11:17 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 11:17 : client: [6] closed
+Jan 14 11:18 : client: [3] closed
+Jan 14 11:18 : client: [7] opened from 127.0.0.1:41022
+Jan 14 11:19 : client: [7] closed
+Jan 14 11:19 : client: [8] opened from 127.0.0.1:41024
+Jan 14 11:20 : exception: Failed to play on "default detected output" (alsa): snd_pcm_writei() failed: Broken pipe
+terminate called after throwing an instance of 'std::runtime_error'
+  what():  Failed to open audio output
+Jan 14 11:24 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 11:24 : client: [0] opened from 127.0.0.1:57634
+Jan 14 11:24 : client: [1] opened from 127.0.0.1:57636
+Jan 14 11:24 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 11:24 : client: [1] closed
+Jan 14 11:26 : client: [0] closed
+Jan 14 11:27 : player: played "album2/Mehdi.Yaghmaei.Vala.Mohammad.Mp3.320kbps_p30download.com.mp3"
+Jan 14 11:32 : client: [2] opened from 127.0.0.1:57726
+Jan 14 11:32 : client: [3] opened from 127.0.0.1:57728
+Jan 14 11:32 : client: [3] closed
+Jan 14 11:35 : player: played "album2/Reza.Sadeghi.Delkhoshie.Sadeh.Mp3.256kbps_p30download.com.mp3"
+Jan 14 11:35 : client: [4] opened from 127.0.0.1:57730
+Jan 14 11:35 : client: [4] closed
+Jan 14 11:36 : client: [2] closed
+Jan 14 11:36 : client: [5] opened from 127.0.0.1:57732
+Jan 14 11:37 : client: [5] closed
+Jan 14 11:37 : client: [6] opened from 127.0.0.1:57736
+Jan 14 11:38 : client: [6] closed
+Jan 14 11:38 : client: [7] opened from 127.0.0.1:57744
+Jan 14 11:38 : client: [8] opened from 127.0.0.1:57746
+Jan 14 11:38 : client: [8] closed
+Jan 14 11:42 : client: [7] closed
+Jan 14 11:42 : client: [9] opened from 127.0.0.1:57772
+Jan 14 11:43 : player: played "album2/Babak.Jahanbakhsh.Havvaye.Man.Mp3.320kbps_p30download.com.mp3"
+Jan 14 11:43 : client: [9] closed
+Jan 14 11:43 : client: [10] opened from 127.0.0.1:57780
+Jan 14 11:44 : client: [10] closed
+Jan 14 11:44 : client: [11] opened from 127.0.0.1:57786
+Jan 14 11:45 : client: [11] closed
+Jan 14 11:45 : client: [12] opened from 127.0.0.1:57794
+Jan 14 11:45 : client: [12] closed
+Jan 14 11:45 : client: [13] opened from 127.0.0.1:57798
+Jan 14 11:45 : client: [13] closed
+Jan 14 11:45 : client: [14] opened from 127.0.0.1:57800
+Jan 14 11:46 : client: [14] closed
+Jan 14 11:46 : client: [15] opened from 127.0.0.1:57806
+Jan 14 11:46 : client: [15] closed
+Jan 14 11:46 : client: [16] opened from 127.0.0.1:57810
+Jan 14 11:47 : client: [16] closed
+Jan 14 11:47 : client: [17] opened from 127.0.0.1:57816
+Jan 14 11:47 : client: [17] closed
+Jan 14 11:48 : client: [18] opened from 127.0.0.1:57824
+Jan 14 11:48 : player: played "album2/Reza.Rad.Signal.Mp3.320kbps_p30download.com.mp3"
+Jan 14 11:50 : client: [0] opened from 127.0.0.1:59400
+Jan 14 11:50 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jan 14 11:50 : client: [1] opened from 127.0.0.1:59402
+Jan 14 11:50 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 11:50 : client: [1] closed
+Jan 14 11:50 : client: [2] opened from 127.0.0.1:59404
+Jan 14 11:50 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 11:50 : client: [2] closed
+Jan 14 11:50 : client: [3] opened from 127.0.0.1:59406
+Jan 14 11:50 : client: [3] closed
+Jan 14 11:50 : client: [4] opened from 127.0.0.1:59408
+Jan 14 11:50 : client: [4] closed
+Jan 14 11:53 : player: played "album2/Sohrab.Pakzad.Eshghe.Yedooneh.Mp3.256kbps_p30download.com.mp3"
+Jan 14 11:58 : client: [5] opened from 127.0.0.1:59576
+Jan 14 11:59 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 12:05 : player: played "album2/Ali.Lohrasbi.And.Hamid.Sefat.Ghafas.Mp3.256kbps_p30download.com.mp3"
+Jan 14 12:08 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 12:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 12:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 12:14 : player: played "album2/Mohammadreza.Ranjbar.Heife.Man.Mp3.320kbps_p30download.com.mp3"
+Jan 14 12:18 : client: [5] closed
+Jan 14 12:18 : client: [6] opened from 127.0.0.1:59752
+Jan 14 12:18 : player: played "album2/Ali.Lohrasbi.And.Hamid.Sefat.Ghafas.Mp3.256kbps_p30download.com.mp3"
+Jan 14 12:19 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 12:20 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 12:24 : player: played "album2/Siamak.Abbasi.Begoo.Yadete.Mano.Mp3.320kbps_p30download.com.mp3"
+Jan 14 12:25 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 12:27 : client: [0] closed
+Jan 14 12:27 : client: [7] opened from 127.0.0.1:59828
+Jan 14 12:28 : client: [7] closed
+Jan 14 12:28 : client: [8] opened from 127.0.0.1:59832
+Jan 14 12:29 : client: [8] closed
+Jan 14 12:29 : client: [9] opened from 127.0.0.1:59836
+Jan 14 12:29 : client: [9] closed
+Jan 14 12:29 : client: [10] opened from 127.0.0.1:59838
+Jan 14 12:29 : client: [10] closed
+Jan 14 12:29 : client: [11] opened from 127.0.0.1:59840
+Jan 14 12:29 : client: [11] closed
+Jan 14 12:29 : client: [12] opened from 127.0.0.1:59844
+Jan 14 12:30 : player: played "album2/Hojat.Ashrafzadeh.In.Roozha.Bedoune.To.Mp3.320kbps_p30download.com.mp3"
+Jan 14 12:30 : client: [13] opened from 127.0.0.1:59848
+Jan 14 12:30 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 14 12:30 : client: [13] closed
+Jan 14 12:31 : client: [12] closed
+Jan 14 12:31 : client: [14] opened from 127.0.0.1:59850
+Jan 14 12:34 : player: played "album2/Reza.Sadeghi.Delkhoshie.Sadeh.Mp3.256kbps_p30download.com.mp3"
+Jan 14 12:37 : client: [14] closed
+Jan 14 12:37 : client: [15] opened from 127.0.0.1:59884
+Jan 14 12:38 : client: [15] closed
+Jan 14 12:39 : client: [16] opened from 127.0.0.1:59894
+Jan 14 12:39 : client: [6] closed
+Jan 14 12:40 : client: [16] closed
+Jan 14 12:40 : client: [17] opened from 127.0.0.1:59902
+Jan 14 12:40 : client: [17] closed
+Jan 14 12:40 : client: [18] opened from 127.0.0.1:59906
+Jan 14 12:41 : client: [18] closed
+Jan 14 12:41 : client: [19] opened from 127.0.0.1:59912
+Jan 14 12:42 : client: [19] closed
+Jan 14 12:42 : client: [20] opened from 127.0.0.1:59916
+Jan 14 12:42 : client: [20] closed
+Jan 14 12:42 : client: [21] opened from 127.0.0.1:59918
+Jan 14 12:42 : client: [21] closed
+Jan 14 12:42 : client: [22] opened from 127.0.0.1:59922
+Jan 14 12:43 : client: [22] closed
+Jan 14 12:43 : client: [23] opened from 127.0.0.1:59940
+Jan 14 12:43 : client: [23] closed
+Jan 14 12:43 : client: [24] opened from 127.0.0.1:59944
+Jan 14 12:44 : client: [24] closed
+Jan 14 12:44 : client: [25] opened from 127.0.0.1:60002
+Jan 14 12:57 : client: [25] closed
+Jan 14 12:57 : client: [26] opened from 127.0.0.1:60332
+Jan 14 12:58 : client: [26] closed
+Jan 14 12:58 : client: [27] opened from 127.0.0.1:60336
+Jan 14 12:58 : client: [27] closed
+Jan 14 12:58 : client: [28] opened from 127.0.0.1:60338
+Jan 14 12:59 : client: [28] closed
+Jan 14 12:59 : client: [29] opened from 127.0.0.1:60348
+Jan 14 13:00 : client: [29] closed
+Jan 14 13:00 : client: [30] opened from 127.0.0.1:60352
+Jan 14 13:00 : client: [30] closed
+Jan 14 13:00 : client: [31] opened from 127.0.0.1:60354
+Jan 14 13:09 : client: [31] closed
+Jan 14 13:09 : client: [32] opened from 127.0.0.1:60496
+Jan 14 13:10 : client: [32] closed
+Jan 14 13:10 : client: [33] opened from 127.0.0.1:60522
+Jan 14 13:15 : client: [33] closed
+Jan 14 13:15 : client: [34] opened from 127.0.0.1:60740
+Jan 14 13:15 : client: [34] closed
+Jan 14 13:15 : client: [35] opened from 127.0.0.1:60744
+Jan 14 13:16 : client: [35] closed
+Jan 14 13:16 : client: [36] opened from 127.0.0.1:60748
